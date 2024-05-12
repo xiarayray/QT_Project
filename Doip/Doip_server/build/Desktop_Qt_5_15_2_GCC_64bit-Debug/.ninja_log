@@ -1,0 +1,9 @@
+# ninja log v5
+250	2389	1715532434921465035	CMakeFiles/Doip_server.dir/mainwindow.cpp.o	291d0b1e6db5009f
+0	249	1715532432781478021	/home/lg/work/qt/Doip_server/build/Desktop_Qt_5_15_2_GCC_64bit-Debug/Doip_server_autogen/timestamp	6e36b05f570ebfff
+249	2252	1715532434785465444	CMakeFiles/Doip_server.dir/Doip_server_autogen/mocs_compilation.cpp.o	5e945464f2e9c7f6
+0	249	1715532432781478021	Doip_server_autogen/mocs_compilation.cpp	6e36b05f570ebfff
+249	2367	1715532434901465095	CMakeFiles/Doip_server.dir/main.cpp.o	253d043a16e16243
+0	249	1715532432781478021	Doip_server_autogen/timestamp	6e36b05f570ebfff
+0	249	1715532432781478021	/home/lg/work/qt/Doip_server/build/Desktop_Qt_5_15_2_GCC_64bit-Debug/Doip_server_autogen/mocs_compilation.cpp	6e36b05f570ebfff
+2389	2834	1715532435369477420	Doip_server	26afe863fac0f9f2
